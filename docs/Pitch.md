@@ -18,15 +18,17 @@ auto-scaling: false
 
 `Комплектація польових аптечок`
 
+
 ![bg right h:100%](res/Medkit2.jpg?text=A)
 
+--- 
+
+Варіанти дезайну логотипу
+
+[#StandWithUkraine]() :ukraine:
 ___
 
 ![bg down w:50%](res/Logo_EN_rectangle.svg)
-
----
-
-[#StandWithUkraine]() :ukraine:
 
 ---
 
