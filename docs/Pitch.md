@@ -19,7 +19,7 @@ auto-scaling: false
 `Комплектація польових аптечок`
 
 
-![bg right h:100%](res/Medkit2.jpg?text=A)
+![bg right h:100%](res/MedKit2.jpg?text=A)
 
 --- 
 
